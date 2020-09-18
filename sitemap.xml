@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.wkai.xyz/tags/index.html</loc>
+    
+    <lastmod>2020-09-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.wkai.xyz/categories/index.html</loc>
+    
+    <lastmod>2020-09-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.wkai.xyz/link/index.html</loc>
+    
+    <lastmod>2020-09-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.wkai.xyz/about/index.html</loc>
+    
+    <lastmod>2020-09-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.wkai.xyz/%E6%96%87%E7%AB%A01/</loc>
     
     <lastmod>2020-09-17</lastmod>
@@ -25,7 +53,7 @@
 
   <url>
     <loc>https://www.wkai.xyz/</loc>
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
