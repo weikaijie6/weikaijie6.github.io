@@ -6,7 +6,7 @@
   <link href="https://www.wkai.xyz/atom.xml" rel="self"/>
   
   <link href="https://www.wkai.xyz/"/>
-  <updated>2020-09-17T15:09:09.957Z</updated>
+  <updated>2020-09-18T10:00:11.593Z</updated>
   <id>https://www.wkai.xyz/</id>
   
   <author>
@@ -17,31 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>文章1</title>
+    <title>1</title>
     <link href="https://www.wkai.xyz/1/"/>
     <id>https://www.wkai.xyz/1/</id>
-    <published>2020-09-17T15:08:14.000Z</published>
-    <updated>2020-09-17T15:09:09.957Z</updated>
+    <published>2020-09-18T09:57:56.000Z</published>
+    <updated>2020-09-18T10:00:11.593Z</updated>
     
-    <content type="html"><![CDATA[<div class="post-content" id="article-container"><h2 id="开始攻击"><a href="#开始攻击" class="headerlink" title="开始攻击"></a>开始攻击</h2><div class="note info"><p><strong>2020.7.24 开始,网站受到大量CC<br>攻击目标是我的博客<br><a target="_blank" rel="noopener" href="http://www.bsgun.cn/">www.bsgun.cn</a><br>博客流量发生巨大变化<br>导致无法访问，照成 <code>0</code> 损失</strong></p></div><div class="note warning"><p><strong>触发cc防御<code>4560</code>次，经下载日志分析，发现攻击来源海量，接入CF盾抵抗，接入CF抵抗一天后，查看统计数量</strong></p></div><p><a href="https://cdn.jsdelivr.net/gh/GlumeL/Public@master/2020/08/29/03a52e26134de013e4f4ac5e54ceaa6e.png" data-fancybox="group" data-caption="" class="fancybox"><img src= "https://cdn.jsdelivr.net/gh/GlumeL/Static@master/Butterfly/3.1.0/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/GlumeL/Public@master/2020/08/29/03a52e26134de013e4f4ac5e54ceaa6e.png" data-ll-status="loaded" class="loaded"></a></p><p><a href="https://cdn.jsdelivr.net/gh/GlumeL/Public@master/2020/08/29/6d6a9d79f6dc6f529c828702792f3347.png" data-fancybox="group" data-caption="" class="fancybox"><img src= "https://cdn.jsdelivr.net/gh/GlumeL/Static@master/Butterfly/3.1.0/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/GlumeL/Static@master/Butterfly/3.1.0/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/GlumeL/Public@master/2020/08/29/6d6a9d79f6dc6f529c828702792f3347.png"></a></p><div class="note success"><p><strong>截止至今，攻击仍未停止<br>本站整个迁移至Hexo静态博客，并使用Coding进行推送！<br>故原博客数据迁移了友链，详情请看<a href="https://bsgun.cn/link">友链</a>界面！<br>现还有部分数据不再迁移</strong></p></div><h2 style="text-align:center">网站站点状态</h2><div class="table-wrap"><table><thead><tr><th align="center">名称</th><th align="center">接口</th><th align="center">状态</th></tr></thead><tbody><tr><td align="center">主页</td><td align="center"><a target="_blank" rel="noopener" href="https://www.bsgun.cn/">https://www.bsgun.cn/</a></td><td align="center">✔️</td></tr><tr><td align="center">搜索</td><td align="center"><a target="_blank" rel="external nofollow noopener noreferrer" href="https://sy.bsgun.cn/">https://sy.bsgun.cn/</a></td><td align="center">✔️</td></tr><tr><td align="center">博客</td><td align="center"><a href="https://bsgun.cn/">https://bsgun.cn/</a></td><td align="center">✔️</td></tr><tr><td align="center">网盘</td><td align="center"><a target="_blank" rel="noopener" href="https://pan.bsgun.cn/">https://pan.bsgun.cn/</a></td><td align="center">✔️</td></tr><tr><td align="center">API</td><td align="center"><a target="_blank" rel="external nofollow noopener noreferrer" href="https://api.bsgun.cn/">https://api.bsgun.cn/</a></td><td align="center">❌</td></tr><tr><td align="center">Rss</td><td align="center"><a target="_blank" rel="external nofollow noopener noreferrer" href="https://rss.bsgun.cn/">https://rss.bsgun.cn/</a></td><td align="center">❌</td></tr></tbody></table></div><blockquote><p>以上链接❌状态为关闭链接✔️为正常访问</p></blockquote></div>]]></content>
+    <content type="html"><![CDATA[<h2 id="h2标题"><a href="#h2标题" class="headerlink" title="h2标题"></a>h2标题</h2><p><img src= "https://cdn.jsdelivr.net/gh/GlumeL/Static@master/Butterfly/3.1.0/img/loading.gif" data-lazy-src="/Static/img/HG.jpg"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;div class=&quot;post-content&quot; id=&quot;article-container&quot;&gt;&lt;h2 id=&quot;开始攻击&quot;&gt;&lt;a href=&quot;#开始攻击&quot; class=&quot;headerlink&quot; title=&quot;开始攻击&quot;&gt;&lt;/a&gt;开始攻击&lt;/h2&gt;&lt;div class=&quot;note</summary>
+    <summary type="html">&lt;h2 id=&quot;h2标题&quot;&gt;&lt;a href=&quot;#h2标题&quot; class=&quot;headerlink&quot; title=&quot;h2标题&quot;&gt;&lt;/a&gt;h2标题&lt;/h2&gt;&lt;p&gt;&lt;img src= &quot;https://cdn.jsdelivr.net/gh/GlumeL/Static@master/Bu</summary>
       
     
     
     
+    
+    <category term="标签" scheme="https://www.wkai.xyz/tags/%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
   <entry>
-    <title>文章1</title>
-    <link href="https://www.wkai.xyz/%E6%96%87%E7%AB%A01/"/>
-    <id>https://www.wkai.xyz/%E6%96%87%E7%AB%A01/</id>
+    <title>说明</title>
+    <link href="https://www.wkai.xyz/te/"/>
+    <id>https://www.wkai.xyz/te/</id>
     <published>2020-09-17T15:08:14.000Z</published>
-    <updated>2020-09-17T15:13:05.909Z</updated>
+    <updated>2020-09-18T09:59:12.795Z</updated>
     
     <content type="html"><![CDATA[<div class="post-content" id="article-container"><h2 id="开始攻击"><a href="#开始攻击" class="headerlink" title="开始攻击"></a>开始攻击</h2><div class="note info"><p><strong>2020.7.24 开始,网站受到大量CC<br>攻击目标是我的博客<br><a target="_blank" rel="noopener" href="http://www.bsgun.cn/">www.bsgun.cn</a><br>博客流量发生巨大变化<br>导致无法访问，照成 <code>0</code> 损失</strong></p></div><div class="note warning"><p><strong>触发cc防御<code>4560</code>次，经下载日志分析，发现攻击来源海量，接入CF盾抵抗，接入CF抵抗一天后，查看统计数量</strong></p></div><p><a href="https://cdn.jsdelivr.net/gh/GlumeL/Public@master/2020/08/29/03a52e26134de013e4f4ac5e54ceaa6e.png" data-fancybox="group" data-caption="" class="fancybox"><img src= "https://cdn.jsdelivr.net/gh/GlumeL/Static@master/Butterfly/3.1.0/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/GlumeL/Public@master/2020/08/29/03a52e26134de013e4f4ac5e54ceaa6e.png" data-ll-status="loaded" class="loaded"></a></p><p><a href="https://cdn.jsdelivr.net/gh/GlumeL/Public@master/2020/08/29/6d6a9d79f6dc6f529c828702792f3347.png" data-fancybox="group" data-caption="" class="fancybox"><img src= "https://cdn.jsdelivr.net/gh/GlumeL/Static@master/Butterfly/3.1.0/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/GlumeL/Static@master/Butterfly/3.1.0/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/GlumeL/Public@master/2020/08/29/6d6a9d79f6dc6f529c828702792f3347.png"></a></p><div class="note success"><p><strong>截止至今，攻击仍未停止<br>本站整个迁移至Hexo静态博客，并使用Coding进行推送！<br>故原博客数据迁移了友链，详情请看<a href="https://bsgun.cn/link">友链</a>界面！<br>现还有部分数据不再迁移</strong></p></div><h2 style="text-align:center">网站站点状态</h2><div class="table-wrap"><table><thead><tr><th align="center">名称</th><th align="center">接口</th><th align="center">状态</th></tr></thead><tbody><tr><td align="center">主页</td><td align="center"><a target="_blank" rel="noopener" href="https://www.bsgun.cn/">https://www.bsgun.cn/</a></td><td align="center">✔️</td></tr><tr><td align="center">搜索</td><td align="center"><a target="_blank" rel="external nofollow noopener noreferrer" href="https://sy.bsgun.cn/">https://sy.bsgun.cn/</a></td><td align="center">✔️</td></tr><tr><td align="center">博客</td><td align="center"><a href="https://bsgun.cn/">https://bsgun.cn/</a></td><td align="center">✔️</td></tr><tr><td align="center">网盘</td><td align="center"><a target="_blank" rel="noopener" href="https://pan.bsgun.cn/">https://pan.bsgun.cn/</a></td><td align="center">✔️</td></tr><tr><td align="center">API</td><td align="center"><a target="_blank" rel="external nofollow noopener noreferrer" href="https://api.bsgun.cn/">https://api.bsgun.cn/</a></td><td align="center">❌</td></tr><tr><td align="center">Rss</td><td align="center"><a target="_blank" rel="external nofollow noopener noreferrer" href="https://rss.bsgun.cn/">https://rss.bsgun.cn/</a></td><td align="center">❌</td></tr></tbody></table></div><blockquote><p>以上链接❌状态为关闭链接✔️为正常访问</p></blockquote></div>]]></content>
     
